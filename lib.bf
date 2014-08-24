@@ -1,8 +1,7 @@
 /* lib.bf
- * A set of simple bf library functions
+ * A set of simple brain**** library functions
  * 
  * Author: Chris Jones
- * Andrew ID: csj
  * Last Updated: 5/29/2013
  *
  * Index 0 refers to the cell at the current position of the tape head when the function is executed.
